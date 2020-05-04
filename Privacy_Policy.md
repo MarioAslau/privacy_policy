@@ -24,7 +24,7 @@ Users are responsible for any third-party Personal Data obtained, published or s
 The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.
 The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of this Application (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
 
-###Legal basis of processing
+### Legal basis of processing
 
 The Owner may process Personal Data relating to Users if one of the following applies:
 
@@ -92,7 +92,7 @@ By registering or authenticating, Users allow this Application to identify them 
 Depending on what is described below, third parties may provide registration and authentication services. In this case, this Application will be able to access some Data, stored by these third-party services, for registration or identification purposes.
 Some of the services listed below may also collect Personal Data for targeting and profiling purposes; to find out more, please refer to the description of each service.
 
-####Firebase Authentication (Google Ireland Limited)
+#### Firebase Authentication (Google Ireland Limited)
 
 Firebase Authentication is a registration and authentication service provided by Google Ireland Limited. To simplify the registration and authentication process, Firebase Authentication can make use of third-party identity providers and save the information on its platform.
 Personal Data processed: email address; first name; last name; phone number; profile picture; username.
@@ -110,7 +110,8 @@ In particular, Users have the right to do the following:
 * Object to processing of their Data. Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
 
 * Access their Data. Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
-Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+
+*Verify and seek rectification. Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
 
 * Restrict the processing of their Data. Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it.
 
