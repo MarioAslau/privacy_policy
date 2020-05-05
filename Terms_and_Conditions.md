@@ -81,7 +81,7 @@ Through this Application Users may have access to external resources provided by
 
 Conditions applicable to any resources provided by third parties, including those applicable to any possible grant of rights in content, result from each such third parties’ terms and conditions or, in the absence of those, applicable statutory law.
 
-###Acceptable use
+### Acceptable use
 
 This Application and the Service may only be used within the scope of what they are provided for, under these Terms and applicable law.
 
@@ -203,6 +203,7 @@ Should any provision of these Terms be deemed or become invalid or unenforceable
 ### EU Users
 
 Should any provision of these Terms be or be deemed void, invalid or unenforceable, the parties shall do their best to find, in an amicable way, an agreement on valid and enforceable provisions thereby substituting the void, invalid or unenforceable parts.
+
 In case of failure to do so, the void, invalid or unenforceable provisions shall be replaced by the applicable statutory provisions, if so permitted or stated under the applicable law.
 
 Without prejudice to the above, the nullity, invalidity or the impossibility to enforce a particular provision of these Terms shall not nullify the entire Agreement, unless the severed provisions are essential to the Agreement, or of such importance that the parties would not have entered into the contract if they had known that the provision would not be valid, or in cases where the remaining provisions would translate into an unacceptable hardship on any of the parties.
@@ -219,7 +220,7 @@ These Terms are governed by the law of the place where the Owner is based, as di
 
 However, regardless of the above, if the User qualifies as a European Consumer and has their habitual residence in a country where the law provides for a higher consumer protection standard, such higher standards shall prevail.
 
-## Venue of jurisdictio
+## Venue of jurisdiction
 
 The exclusive competence to decide on any controversy resulting from or connected to these Terms lies with the courts of the place where the Owner is based, as displayed in the relevant section of this document.
 
@@ -241,7 +242,7 @@ Any legally binding or contractual relationship between the Owner and the User, 
 
 Any User that does not qualify as a Consumer.
 
-### Eurpean ( or Europe)
+### European ( or Europe)
 
 Applies where a User is physically present or has their registered offices within the EU, regardless of nationality.
 
